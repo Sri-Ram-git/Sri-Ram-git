@@ -151,7 +151,7 @@ Production-ready deployment of an E-Commerce application using:
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/es-sriram">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
