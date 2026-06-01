@@ -1,82 +1,170 @@
 <div align="center">
 
-<!-- High-End Dynamic Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&secondaryColor=161b22&height=180&section=header&text=ES%20SRIRAM&fontSize=50&fontColor=36BCF7&animation=fadeIn" width="100%" />
+<h1>Hi 👋, I'm ES Sriram</h1>
 
-<br/>
+<h3>Cloud Computing Student | DevOps Enthusiast | Full Stack Developer</h3>
 
-<h3>🪐 Cloud & DevOps Engineer in Progress · Developer</h3>
-
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sri32291@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Cloud+%26+DevOps+Engineer+in+Progress;Kubernetes+%7C+Docker+%7C+Azure;Building+Production-Ready+Systems;Always+Learning+New+Technologies" />
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6cmNidXFmZ3R4YjZleW80M3RxbXZ4amM0bW9nbms0b3d6ZXZyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v9Wv97T9dBunBODZ82/giphy.gif" width="25"> Architecture & Profile
+# 🚀 About Me
 
-<table width="100%">
-  <tr>
-    <td>
-      <p><b>🎓 B.Tech Cloud Computing Student @ Alliance University</b></p>
-      <p>Focused on cloud native ecosystems, declarative automation pipelines, and infrastructure architecture. Bridging the gap between software execution and resilient deployment systems.</p>
-    </td>
-  </tr>
-</table>
-
-*   **⚡ Core Focus:** Architecting highly available, distributed systems following DevOps best practices.
-*   **🐳 Environments:** Container orchestration via Docker and active cluster management using Kubernetes.
-*   **🌱 Current Vector:** Deep-diving into Azure architectures, infrastructure-as-code automation via Terraform, and GitOps CI/CD loops.
+- 🎓 B.Tech Cloud Computing Student at Alliance University
+- ☁️ Learning Cloud, DevOps & Full Stack Development
+- 🐳 Working with Docker & Kubernetes
+- ⚙️ Exploring CI/CD, Monitoring & Infrastructure Automation
+- 🌱 Currently learning Azure, GitHub Actions and Terraform
+- 🎯 Goal: Become a Cloud & DevOps Engineer
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g3ZnA3cmpxdWNhYno1NmI4NXZmZHpqZXZhbnd2ZzRjYnRxZmJ2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZElp836t0OEXUco9Iq/giphy.gif" width="25"> Stack Matrix
+# 🛠️ Tech Stack
 
-<table width="100%">
-  <tr>
-    <td align="center" width="25%"><b>Cloud & Orchestration</b></td>
-    <td align="center" width="25%"><b>Automation & Core</b></td>
-    <td align="center" width="25%"><b>Languages</b></td>
-    <td align="center" width="25%"><b>Data Stores</b></td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=kubernetes,docker,azure,aws" alt="Cloud Stack" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=githubactions,git,linux,nginx" alt="DevOps Tools" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Programming" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
-    </td>
-  </tr>
+<h3>Cloud & DevOps</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,linux,nginx,githubactions,git" />
+</p>
+
+<h3>Programming</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,javascript,html,css" />
+</p>
+
+<h3>Databases</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+<h3>Tools</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,git,github" />
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🚀 Kubernetes E-Commerce Deployment
+
+Production-ready deployment of an E-Commerce application using:
+
+- Docker
+- Kubernetes
+- HPA
+- NGINX
+- Minikube
+- Service Networking
+
+### Features
+
+✔ Containerized Application
+
+✔ Self Healing Pods
+
+✔ Auto Scaling
+
+✔ Load Balancing
+
+✔ Production Style Architecture
+
+---
+
+## 🔥 Upcoming Projects
+
+- CI/CD Pipeline using GitHub Actions
+- Monitoring Stack (Prometheus + Grafana)
+- Cloud Resume Challenge
+- Terraform Infrastructure Automation
+- Microservices Deployment on Kubernetes
+
+---
+
+# 🏆 Certifications
+
+<table>
+<tr>
+<td>🟢 AZ-900 (Planned)</td>
+</tr>
+
+<tr>
+<td>🟢 AI-900 (Planned)</td>
+</tr>
+
+<tr>
+<td>🟢 AWS Cloud Practitioner (Planned)</td>
+</tr>
 </table>
 
 ---
 
-## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMml3dGtycW5wZXBhNm9naWZzd240NDVnbWFjNGpjaDNtNXdybTZ1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WpB8EAnid0K9eXwshX/giphy.gif" width="25"> Featured Engineering Blueprint
+# 📊 GitHub Analytics
 
-### 🚀 Kubernetes Production E-Commerce Deployment
-> Highly available, fault-tolerant cluster architecture blueprint designed for microservice environments.
+<p align="center">
 
-```mermaid
-graph TD
-    Client[Traffic] --> Ingress[NGINX Ingress Controller]
-    Ingress --> Service[K8s Service Mesh]
-    Service --> Pod1[App Pod Instance A]
-    Service --> Pod2[App Pod Instance B]
-    
-    HPA[Horizontal Pod Autoscaler] -. Monitor CPU/Memory .-> Pod1
-    
-    style Client fill:#0d1117,stroke:#36BCF7,stroke-width:1px,color:#fff
-    style Ingress fill:#161b22,stroke:#36BCF7,stroke-width:2px,color:#fff
-    style Service fill:#161b22,stroke:#ffb86c,stroke-width:1px,color:#fff
-    style Pod1 fill:#0d1117,stroke:#50fa7b,stroke-width:1px,color:#fff
-    style Pod2 fill:#0d1117,stroke:#50fa7b,stroke-width:1px,color:#fff
-    style HPA fill:#21262d,stroke:#ff5555,stroke-dasharray: 5 5,color:#fff
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sri-Ram-git&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sri-Ram-git&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=Sri-Ram-git&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sri-Ram-git&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🎯 2026 Goals
+
+- Master Kubernetes
+- Learn Terraform
+- Build Production Cloud Projects
+- Earn AZ-900 Certification
+- Contribute to Open Source
+- Secure a Cloud/DevOps Internship
+
+---
+
+# 🤝 Connect With Me
+
+<p align="left">
+
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:sri32291@gmail.com">
+📧 Email
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Building scalable systems one deployment at a time
+
+</div>
