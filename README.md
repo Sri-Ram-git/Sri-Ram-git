@@ -1,85 +1,82 @@
 <div align="center">
 
-<!-- Premium Typing SVG Header -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+ES+Sriram;Cloud+%26+DevOps+Engineer+in+Progress;Building+Production-Ready+Systems;Kubernetes+%7C+Docker+%7C+Azure" alt="Typing SVG" />
+<!-- High-End Dynamic Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&secondaryColor=161b22&height=180&section=header&text=ES%20SRIRAM&fontSize=50&fontColor=36BCF7&animation=fadeIn" width="100%" />
+
+<br/>
+
+<h3>🪐 Cloud & DevOps Engineer in Progress · Developer</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:sri32291@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:sri32291@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 </div>
 
 ---
 
-## ⚡ About Me
-
-<blockquote>
-  <h3>🎓 B.Tech Cloud Computing Student @ Alliance University</h3>
-  <p>Specializing in CloudOps, Infrastructure as Code, and Cloud Native development.</p>
-</blockquote>
-
-* ☁️ **Core Focus:** Architecting scalable, resilient systems using Cloud & DevOps best practices.
-* 🐳 **Current Playground:** Orchestrating workloads with **Docker** & **Kubernetes**, setting up automated workflows.
-* 🌱 **Deep Diving:** Mastering **Azure**, Infrastructure as Code (**Terraform**), and **GitHub Actions** CI/CD pipelines.
-* 🎯 **Target:** Securing a Cloud/DevOps Engineering role where I can bridge the gap between code and infrastructure.
-
----
-
-## 🛠️ Tech Stack
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z6cmNidXFmZ3R4YjZleW80M3RxbXZ4amM0bW9nbms0b3d6ZXZyayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v9Wv97T9dBunBODZ82/giphy.gif" width="25"> Architecture & Profile
 
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>☁️ Cloud & DevOps</h4>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,linux,nginx,githubactions,git" alt="DevOps Stack" />
-    </td>
-    <td width="50%" valign="top">
-      <h4>💻 Programming & Backend</h4>
-      <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Programming Stack" />
+    <td>
+      <p><b>🎓 B.Tech Cloud Computing Student @ Alliance University</b></p>
+      <p>Focused on cloud native ecosystems, declarative automation pipelines, and infrastructure architecture. Bridging the gap between software execution and resilient deployment systems.</p>
     </td>
   </tr>
+</table>
+
+*   **⚡ Core Focus:** Architecting highly available, distributed systems following DevOps best practices.
+*   **🐳 Environments:** Container orchestration via Docker and active cluster management using Kubernetes.
+*   **🌱 Current Vector:** Deep-diving into Azure architectures, infrastructure-as-code automation via Terraform, and GitOps CI/CD loops.
+
+---
+
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2g3ZnA3cmpxdWNhYno1NmI4NXZmZHpqZXZhbnd2ZzRjYnRxZmJ2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/ZElp836t0OEXUco9Iq/giphy.gif" width="25"> Stack Matrix
+
+<table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <h4>🗄️ Databases</h4>
-      <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
+    <td align="center" width="25%"><b>Cloud & Orchestration</b></td>
+    <td align="center" width="25%"><b>Automation & Core</b></td>
+    <td align="center" width="25%"><b>Languages</b></td>
+    <td align="center" width="25%"><b>Data Stores</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=kubernetes,docker,azure,aws" alt="Cloud Stack" />
     </td>
-    <td width="50%" valign="top">
-      <h4>⚙️ Tools & Architecture</h4>
-      <img src="https://skillicons.dev/icons?i=vscode,github" alt="Tools" />
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=githubactions,git,linux,nginx" alt="DevOps Tools" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java,js,html,css" alt="Programming" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="Databases" />
     </td>
   </tr>
 </table>
 
 ---
 
-## 📌 Featured Projects
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMml3dGtycW5wZXBhNm9naWZzd240NDVnbWFjNGpjaDNtNXdybTZ1ZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/WpB8EAnid0K9eXwshX/giphy.gif" width="25"> Featured Engineering Blueprint
 
-### 🚀 Kubernetes E-Commerce Deployment
-> A production-ready, highly available deployment blueprint for a cloud-native E-Commerce microservices application.
-
-* **Infrastructure & Tools:** `Docker` • `Kubernetes` • `NGINX Ingress` • `Minikube`
-* **Key Implementations:**
-    * 📦 **Containerization:** Built optimized multi-stage Docker builds.
-    * 🔄 **Self-Healing:** Engineered resilient Pod disruption budgets and liveness/readiness probes.
-    * 📈 **Auto-Scaling:** Configured Horizontal Pod Autoscaler (HPA) targeting CPU utilization thresholds.
-    * 🌐 **Traffic Routing:** Configured Service Networking and NGINX Ingress for flawless load balancing.
-
----
-
-### 🔥 Active Pipeline & Upcoming Architecture
+### 🚀 Kubernetes Production E-Commerce Deployment
+> Highly available, fault-tolerant cluster architecture blueprint designed for microservice environments.
 
 ```mermaid
-graph LR
-    A[Code Base] --> B[GitHub Actions]
-    B --> C[SonarQube]
-    C --> D[Docker Hub]
-    D --> E[Kubernetes AKS]
-    E --> F[Prometheus + Grafana]
+graph TD
+    Client[Traffic] --> Ingress[NGINX Ingress Controller]
+    Ingress --> Service[K8s Service Mesh]
+    Service --> Pod1[App Pod Instance A]
+    Service --> Pod2[App Pod Instance B]
     
-    style A fill:#111,stroke:#36BCF7,stroke-width:2px,color:#fff
-    style B fill:#111,stroke:#36BCF7,stroke-width:2px,color:#fff
-    style C fill:#111,stroke:#36BCF7,stroke-width:2px,color:#fff
-    style D fill:#111,stroke:#36BCF7,stroke-width:2px,color:#fff
-    style E fill:#111,stroke:#36BCF7,stroke-width:2px,color:#fff
-    style F fill:#111,stroke:#36BCF7,stroke-width:2px,color:#fff
+    HPA[Horizontal Pod Autoscaler] -. Monitor CPU/Memory .-> Pod1
+    
+    style Client fill:#0d1117,stroke:#36BCF7,stroke-width:1px,color:#fff
+    style Ingress fill:#161b22,stroke:#36BCF7,stroke-width:2px,color:#fff
+    style Service fill:#161b22,stroke:#ffb86c,stroke-width:1px,color:#fff
+    style Pod1 fill:#0d1117,stroke:#50fa7b,stroke-width:1px,color:#fff
+    style Pod2 fill:#0d1117,stroke:#50fa7b,stroke-width:1px,color:#fff
+    style HPA fill:#21262d,stroke:#ff5555,stroke-dasharray: 5 5,color:#fff
