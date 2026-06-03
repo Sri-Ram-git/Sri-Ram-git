@@ -51,7 +51,8 @@
 
 # 📌 Featured Projects
 
-## 🚀 Kubernetes E-Commerce Deployment
+## 🚀 Kubernetes E-Commerce Deployment 
+<link href = "https://github.com/Sri-Ram-git/Kubernetes-E-Commerce-Deployment">
 
 Production-ready deployment of an E-Commerce application using:
 
