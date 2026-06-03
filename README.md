@@ -106,13 +106,10 @@ Production-ready deployment of an E-Commerce application using:
 
 # 📊 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sri-Ram-git&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sri-Ram-git&layout=compact&theme=tokyonight"/>
-
-</p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sri-Ram-git&theme=github_dark"/>
+</div>
 
 ---
 
@@ -147,24 +144,34 @@ Production-ready deployment of an E-Commerce application using:
 
 ---
 
-# 🤝 Connect With Me
+# 🤝 Let's Connect
 
-<p align="left">
+<div align="center">
 
 <a href="https://linkedin.com/in/es-sriram">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:sri32291@gmail.com">
-📧 Email
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</p>
+<a href="https://github.com/Sri-Ram-git">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
 
 ---
 
 <div align="center">
 
-### ⭐ Building scalable systems one deployment at a time
+### Cloud • DevOps • Full Stack
+
+Building scalable and production-ready systems.
+
+⭐ If you like my projects, feel free to explore my repositories.
 
 </div>
