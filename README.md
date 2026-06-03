@@ -94,10 +94,6 @@ Production-ready deployment of an E-Commerce application using:
 </tr>
 
 <tr>
-<td>🟢 AI-900 (Planned)</td>
-</tr>
-
-<tr>
 <td>🟢 AWS Cloud Practitioner (Planned)</td>
 </tr>
 </table>
