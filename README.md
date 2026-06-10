@@ -134,6 +134,7 @@ Production-ready deployment of an E-Commerce application using:
 
 - Master Kubernetes
 - Learn Terraform
+- Learn Prometheus & Grafana
 - Build Production Cloud Projects
 - Earn AZ-900 Certification
 - Contribute to Open Source
