@@ -91,7 +91,7 @@ Production-ready deployment of an E-Commerce application using:
 
 <table>
 <tr>
-<td>🟢 AZ-900 (Planned)</td>
+<td>🟢 AZ-104 (Planned)</td>
 </tr>
 
 <tr>
