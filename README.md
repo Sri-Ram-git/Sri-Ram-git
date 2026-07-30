@@ -1,6 +1,6 @@
 <div align="center">
 
-# ES Sriram
+<h1>Hi 👋, I'm ES Sriram</h1>
 
 ### Cloud Computing Student • Cloud & DevOps Engineer • Full Stack Developer
 
@@ -8,9 +8,6 @@
 
 <br>
 
-<a href="https://github.com/Sri-Ram-git">
-<img src="https://img.shields.io/github/followers/Sri-Ram-git?style=for-the-badge"/>
-</a>
 
 <a href="https://github.com/Sri-Ram-git?tab=repositories">
 <img src="https://img.shields.io/badge/Projects-View-blue?style=for-the-badge"/>
