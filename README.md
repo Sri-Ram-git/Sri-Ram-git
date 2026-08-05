@@ -21,13 +21,11 @@
 
 ---
 
-# About
+## About
 
-I'm a Cloud Computing student focused on building scalable infrastructure and cloud-native applications.
+Focused on cloud infrastructure, DevOps, and cloud-native technologies, with hands-on experience building containerized applications and scalable deployment workflows.
 
-My primary interests include Kubernetes, DevOps, Infrastructure as Code, Platform Engineering, and Distributed Systems.
-
-I enjoy building production-style projects that reflect real-world deployment practices rather than tutorial-based implementations.
+Primary areas of interest include Kubernetes, Infrastructure as Code, CI/CD, Platform Engineering, and Distributed Systems. Projects are centered around practical implementations that emphasize automation, reliability, scalability, and production-oriented architecture.
 
 ---
 
@@ -105,9 +103,9 @@ Features include:
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Sri-Ram-git&theme=github-dark-blue&hide_border=true"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=Sri-Ram-git&theme=github-dark-blue&hide_border=true"/>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sri-Ram-git&theme=github_dark"/>
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sri-Ram-git&theme=github_dark"/>
 
 </p>
 
