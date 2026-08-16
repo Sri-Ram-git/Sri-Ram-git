@@ -1,27 +1,13 @@
-<div align="center">
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sri-Ram-git/Sri-Ram-git/main/github-banner.png"
+    alt="ES Sriram — Cloud & DevOps Engineer"
+    width="100%"
+</p>
 
-<h1>Hi 👋, I'm ES Sriram</h1>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=2500&color=A855F7&center=true&vCenter=true&width=700&lines=Building+Cloud-Native+Infrastructure;Kubernetes+%7C+Docker+%7C+Azure;Infrastructure+Automation;Always+Building"/>
 
-### Cloud Computing Student • Cloud & DevOps Engineer • Full Stack Developer
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=2500&color=3B82F6&center=true&vCenter=true&width=700&lines=Building+Cloud-Native+Infrastructure;Kubernetes+%7C+Docker+%7C+Azure;Infrastructure+Automation;Always+Building"/>
-
-<br>
-
-
-<a href="https://github.com/Sri-Ram-git?tab=repositories">
-<img src="https://img.shields.io/badge/Projects-View-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://linkedin.com/in/es-sriram">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-## About
+# About
 
 Focused on cloud infrastructure, DevOps, and cloud-native technologies, with hands-on experience building containerized applications and scalable deployment workflows.
 
