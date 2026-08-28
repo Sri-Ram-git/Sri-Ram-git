@@ -75,7 +75,11 @@ Features include:
 - Scene Understanding
 - Voice Assistance
 
-*Currently in development.*
+<a href="https://github.com/Sri-Ram-git/Ai_Powered_Assistive_system">
+  
+View Repository →
+
+</a>
 
 </td>
 
